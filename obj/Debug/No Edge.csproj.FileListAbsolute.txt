@@ -1,0 +1,7 @@
+C:\Users\aidan\source\repos\No Edge\No Edge\bin\Debug\No Edge.exe.config
+C:\Users\aidan\source\repos\No Edge\No Edge\bin\Debug\No Edge.exe
+C:\Users\aidan\source\repos\No Edge\No Edge\bin\Debug\No Edge.pdb
+C:\Users\aidan\source\repos\No Edge\No Edge\obj\Debug\No Edge.csprojAssemblyReference.cache
+C:\Users\aidan\source\repos\No Edge\No Edge\obj\Debug\No Edge.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\No Edge\No Edge\obj\Debug\No Edge.exe
+C:\Users\aidan\source\repos\No Edge\No Edge\obj\Debug\No Edge.pdb
